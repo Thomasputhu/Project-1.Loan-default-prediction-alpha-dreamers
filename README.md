@@ -1,11 +1,11 @@
-# Project-1.Loan-default-prediction-alpha-dreamers
+Loan-default-prediction-alpha-dreamers
 #
 
 ## Introduction
 Welcome to the Loan Default Analysis project! This repository contains the code and resources for analyzing loan default data within Dreamers Banking Consortium. The objective of this project is to examine patterns and factors associated with loan defaults and develop a predictive model to forecast default risk.
 
 ## About the Author
-- **Author:** Thomas Phutu
+- **Author:** Thomas Putu
 - **Date:** March 6, 2024
 
 ## Project Overview
@@ -29,6 +29,6 @@ To begin with this project, follow these steps:
 Contributions to this project are encouraged! If you have suggestions for improvements or new analysis ideas, feel free to submit a pull request or open an issue.
 
 ## Contact Information
-For inquiries or collaborations, please contact the author via email at .
+For inquiries or collaborations, please contact the author via email at thomascmi@yahoo.com
 
 Enjoy exploring the data! 🚀
