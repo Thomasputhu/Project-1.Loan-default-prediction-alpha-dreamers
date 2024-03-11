@@ -9,7 +9,7 @@ Welcome to the Loan Default Analysis project! This repository contains the code 
 - **Date:** March 6, 2024
 
 ## Project Overview
-- **Data:** The dataset used in this analysis is not provided in this repository due to its size.
+- **Data:** The dataset used in this analysis is provided in this repository.
 - **Analysis:** Exploratory data analysis (EDA) techniques are utilized to uncover insights into the relationships between different features and loan defaults.
 - **Modeling:** Machine learning algorithms, such as logistic regression, are utilized to predict the likelihood of loan defaults based on applicant characteristics.
 - **Evaluation:** Model performance is assessed using metrics such as accuracy, precision, and recall.
